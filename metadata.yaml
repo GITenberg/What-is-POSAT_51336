@@ -1,0 +1,39 @@
+_repo: What-is-POSAT_51336
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Alexander, Ed
+    - Emshwiller, Edmund A.
+    - Emsh, Ed
+    - Willer
+    - Emsh
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+creator:
+  author:
+    agent_name: Smith, Phyllis Sterling
+    gutenberg_agent_id: '46364'
+    url: http://www.gutenberg.org/2009/agents/46364
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Secret societies -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: What is POSAT?
+url: http://www.gutenberg.org/ebooks/51336
