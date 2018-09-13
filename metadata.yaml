@@ -1,5 +1,5 @@
 _repo: What-is-POSAT_51336
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Emshwiller, Ed
@@ -14,12 +14,17 @@ contributor:
     gutenberg_agent_id: '25412'
     url: http://www.gutenberg.org/2009/agents/25412
     wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 51336-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Phyllis Sterling
     gutenberg_agent_id: '46364'
     url: http://www.gutenberg.org/2009/agents/46364
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51336#What-is-POSAT
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-01'
 gutenberg_type: Text
